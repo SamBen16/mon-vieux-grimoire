@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SamBen16/mon-vieux- grimoire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamBen16/mon-vieux- grimoire/issues"
+  },
+  "homepage": "https://github.com/SamBen16/mon-vieux- grimoire#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
