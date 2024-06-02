@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SamBen16/mon-vieux- grimoire#readme",
   "devDependencies": {
     "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
